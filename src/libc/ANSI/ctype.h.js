@@ -12,7 +12,6 @@ ctype.h.charify = (s) => {
     return "" + s;
   }
 
-
 }
 
 ctype.h.isalnum = (s) => {
